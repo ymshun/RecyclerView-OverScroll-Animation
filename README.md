@@ -1,7 +1,7 @@
 # RecyclerView-OverScroll-Animation
 RecyclerView OverScroll Animation , Bouncing RecyclerView
 
-Qiita: [物理アニメーションでRecyclerViewにオーバースクロールアニメーションを実装してみる]()
+Qiita: [物理アニメーションでRecyclerViewにオーバースクロールアニメーションを実装してみる](https://qiita.com/YS-BETA/items/d914abbce96b927723cb)
 
 reference : [Bounce effect in RecyclerView](https://medium.com/mindorks/bounce-effect-in-recyclerview-6463a7f81e5) by Ashu Tyagi
 
